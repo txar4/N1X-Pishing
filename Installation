@@ -1,0 +1,7 @@
+apt update
+apt install git -y
+git clone https://github.com/txar4/N1X-Pishing.git
+cd npishin.sh
+> SETUP : bash setup
+> SETUP [TERMUX] : bash tmux_setup
+> Run : bash npishin.sh
